@@ -5,11 +5,9 @@
 [National Resource List](https://docs.google.com/document/d/1CjZMORRVuv-I-qo4B0YfmOTqIOa3GUS207t5iuLZmyA/mobilebasic)
 
 **Protests/Marches:**
-NYC: [@justiceforgeorgenyc](https://www.instagram.com/justiceforgeorgenyc/
-)
+NYC: [@justiceforgeorgenyc](https://www.instagram.com/justiceforgeorgenyc/)
 
-[Police Scanner Map NYC](https://scanmap.frnsys.com/NY/
-)
+[Police Scanner Map NYC](https://scanmap.frnsys.com/NY/)
 
 [Signal for end-to-end, open-sourced encrypted messaging](https://signal.org/
 )
