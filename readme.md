@@ -8,7 +8,7 @@
 NYC: [@justiceforgeorgenyc](https://www.instagram.com/justiceforgeorgenyc/
 )
 
-[Police Scanner] Map NYC(https://scanmap.frnsys.com/NY/
+[Police Scanner Map NYC](https://scanmap.frnsys.com/NY/
 )
 
 [Signal for end-to-end, open-sourced encrypted messaging](https://signal.org/
