@@ -150,6 +150,43 @@
 
 ## Part III Technology Now (Friday, June 12, 2020)
 
-**
-Discussion Topics
-**
+**Discussion Topics**
+
+* The history of technology and tech institutions’s role in systemic racism
+8 Our role as technologists in this moment
+
+* Technology companies and policing
+* Github / Palantir and ICE
+* IBM and the Holocaust: https://en.wikipedia.org/wiki/IBM_and_the_Holocaust
+* Facial recognition (IBM, Microsoft, Amazon) and the police:
+* * https://blog.aboutamazon.com/policy/we-are-implementing-a-one-year-moratorium-on-police-use-of-rekognition
+* * Master/slave, whitelist/blacklist terminology
+* * https://twitter.com/twostraws/status/1270736467204194309
+* * https://twitter.com/tobie/status/1270290278029631489
+* * https://www.cnet.com/news/master-and-slave-tech-terms-face-scrutiny-amid-anti-racism-efforts/
+* * https://www.vice.com/en_us/article/8x7akv/masterslave-terminology-was-removed-from-python-programming-language
+** The Digital Divide
+** [Race After Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin](https://www.goodreads.com/book/show/42527493-race-after-technology)
+* https://www.amazon.com/Race-After-Technology-Abolitionist-Tools/dp/1509526404
+* Ed-Tech
+* * https://www.edquity.co/
+* VR
+* * Courtney Cogburn: https://socialwork.columbia.edu/faculty-research/faculty/full-time/courtney-d-cogburn/, https://www.youtube.com/watch?v=-kNfLe81dfQ
+* [Cosmotechnics as cosmopolitics](https://www.e-flux.com/journal/86/161887/cosmotechnics-as-cosmopolitics/)
+* Algorithmic Bias
+* * https://www.ajlunited.org/ (Joy Adowaa Buolamwini)
+
+Resources:
+https://riseup.net/ -- see under collaboration for secure resource-sharing docs
+
+Decentralized Communication
+https://scuttlebutt.nz/
+ https://www.joincircles.net/
+
+Self-funding methods
+
+Large funding methods
+https://seedfund.nsf.gov/
+
+Data visualization
+Spatial audio
