@@ -63,7 +63,7 @@
 
 **Resources**
 
-Readings:
+**Readings:**
 
 * [The Abolitionist Toolkit](http://criticalresistance.org/resources/the-abolitionist-toolkit/)
 * The New Jim Crow - Michelle Alexander
@@ -91,7 +91,7 @@ Readings:
 
 * [A Library of Black Revolutionary Texts](https://drive.google.com/drive/folders/18y0_2wm85L113fVWYdgljq9uuIlmlbl3)
 
-Fiction:
+**Fiction:**
 
 * Americanah - Chimamanda Ngozi Adichie
 * The Nickel Boys - Colson Whitehead
@@ -100,16 +100,16 @@ Fiction:
 * On Beauty - Zadie Smith
 * Invisible Man - Ralph Ellison
 
-Poetry:
+**Poetry:**
 * https://poets.org/poem/let-america-be-america-again
 
-Articles:
+**Articles:**
 * [How Do We Change America](https://www.newyorker.com/news/our-columnists/how-do-we-change-america)
 * [Prison Labor is Modern Slavery](https://www.theguardian.com/commentisfree/2018/aug/23/prisoner-speak-out-american-slave-labor-strike)
 * [The Origins of the Police](http://libcom.org/history/origins-police-david-whitehouse)
 * [Why Minnaepolis Was the Breaking Point](https://www.theatlantic.com/politics/archive/2020/06/wesley-lowery-george-floyd-minneapolis-black-lives/612391/)
 
-Podcasts:
+**Podcasts:**
 
 * 1619 (New York Times)
 * About Race
@@ -123,7 +123,7 @@ Podcasts:
 * [The Diversity Gap](https://www.thediversitygap.com/podcast-1)
 * [Yo, Is This Racist?](https://podcasts.apple.com/us/podcast/yo-is-this-racist/id566985372)
 
-Film/Documentary:
+**Film/Documentary:**
 
 * 13TH
 * I Am Not Your Negro
@@ -149,3 +149,7 @@ Film/Documentary:
 * How can I work inside of that institution to dissolve it?
 
 ## Part III Technology Now (Friday, June 12, 2020)
+
+**
+Discussion Topics
+**
