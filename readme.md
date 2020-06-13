@@ -62,31 +62,32 @@
 **How to be an ally as a non-Black person//someone outside of the US)**
 
 **Resources**
+
 Readings:
-[The Abolitionist Toolkit](http://criticalresistance.org/resources/the-abolitionist-toolkit/)
-The New Jim Crow - Michelle Alexander
-White Fragility - Robin DiAngelo (Original essay - very good and only 17 pages! : https://libjournal.uncg.edu/ijcp/article/viewFile/249/116)
-Between the World and Me - Ta-Nehisi Paul Coates
-The Fire Next Time - James Baldwin
-Black Against Empire - Joshua Bloom and Waldo E. Martin Jr.
-Where Do We Go From Here: Chaos or Community? - Martin Luther King Jr.
-They Can’t Kill Us All - Wesley Lowery
-White Rage - Carol Anderson
-[Are Prisons Obsolete? - Angela Davis](https://www.feministes-radicales.org/wp-content/uploads/2010/11/Angela-Davis-Are_Prisons_Obsolete.pdf)
-Stamped from the Beginning: The Definitive History of Racist Ideas in America - Ibram X. Kendi
-The Autobiography of Malcolm X - Malcolm X
-A Colony in a Nation - Chris Hayes
-Ghettoside: A True Story of Murder in America - Jill Leovy
-The Color of Law - Richard Rothstein
-So You Want to Talk About Race - Ijeoma Oluo
-Stamped: Racism, Antiracism and You - Jason Reynolds
-[Black History Month Library](https://drive.google.com/drive/u/0/folders/0Bz011IF2Pu9TUWIxVWxybGJ1Ync) (Free downloads of many of these books available here)
-[Seeing Like a State](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153)
-The History of White People - Nell Irvin Painter
-The Little Book of Race and Restorative Justice: Black Lives, healing, and US Social Transformation - Fania E. Davis
-The Inner Work of Racial Justice - Rhonda V. Magee
-Pedagogy of the Oppressed - Paulo Freire
-[Stamped from the Beginning](https://www.amazon.com/Stamped-Beginning-Definitive-History-National/dp/1568585985)
+
+* [The Abolitionist Toolkit](http://criticalresistance.org/resources/the-abolitionist-toolkit/)
+* The New Jim Crow - Michelle Alexander
+* White Fragility - Robin DiAngelo (Original essay - very good and only 17 pages! : https://libjournal.uncg.edu/ijcp/article/viewFile/249/116)
+* Between the World and Me - Ta-Nehisi Paul Coates
+* The Fire Next Time - James Baldwin
+* Black Against Empire - Joshua Bloom and Waldo E. Martin Jr.
+* Where Do We Go From Here: Chaos or Community? - Martin Luther King Jr.
+* They Can’t Kill Us All - Wesley Lowery
+* White Rage - Carol Anderson
+* [Are Prisons Obsolete? - Angela Davis](https://www.feministes-radicales.org/wp-content/uploads/2010/11/Angela-Davis-Are_Prisons_Obsolete.pdf)
+* [Stamped from the Beginning: The Definitive History of Racist Ideas in America - Ibram X. Kendi](https://www.amazon.com/Stamped-Beginning-Definitive-History-National/dp/1568585985)
+* The Autobiography of Malcolm X - Malcolm X
+* A Colony in a Nation - Chris Hayes
+* Ghettoside: A True Story of Murder in America - Jill Leovy
+* The Color of Law - Richard Rothstein
+* So You Want to Talk About Race - Ijeoma Oluo
+* Stamped: Racism, Antiracism and You - Jason Reynolds
+* [Black History Month Library](https://drive.google.com/drive/u/0/folders/0Bz011IF2Pu9TUWIxVWxybGJ1Ync) (Free downloads of many of these books available here)
+* [Seeing Like a State](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153)
+* The History of White People - Nell Irvin Painter
+* The Little Book of Race and Restorative Justice: Black Lives, healing, and US Social Transformation - Fania E. Davis
+* The Inner Work of Racial Justice - Rhonda V. Magee
+* Pedagogy of the Oppressed - Paulo Freire
 
 [A Library of Black Revolutionary Texts](https://drive.google.com/drive/folders/18y0_2wm85L113fVWYdgljq9uuIlmlbl3)
 
@@ -108,6 +109,17 @@ Articles:
 [Why Minnaepolis Was the Breaking Point](https://www.theatlantic.com/politics/archive/2020/06/wesley-lowery-george-floyd-minneapolis-black-lives/612391/)
 
 Podcasts:
+1619 (New York Times)
+About Race
+Code Switch (NPR)
+Intersectionality Matters!
+Momentum: A Race Forward
+[Still Processing](https://podcasts.apple.com/us/podcast/still-processing/id1151436460)
+[Pod Save the People](https://podcasts.apple.com/us/podcast/pod-save-the-people/id1230148653)
+[We Live Here](https://podcasts.apple.com/podcast/id978375918?mt=2)
+[The Stoop](http://www.thestoop.org/)
+[The Diversity Gap](https://www.thediversitygap.com/podcast-1)
+[Yo, Is This Racist?](https://podcasts.apple.com/us/podcast/yo-is-this-racist/id566985372)
 
 Film/Documentary:
 13TH
