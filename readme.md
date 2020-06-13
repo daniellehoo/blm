@@ -165,9 +165,8 @@
 * * https://twitter.com/tobie/status/1270290278029631489
 * * https://www.cnet.com/news/master-and-slave-tech-terms-face-scrutiny-amid-anti-racism-efforts/
 * * https://www.vice.com/en_us/article/8x7akv/masterslave-terminology-was-removed-from-python-programming-language
-** The Digital Divide
-** [Race After Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin](https://www.goodreads.com/book/show/42527493-race-after-technology)
-* https://www.amazon.com/Race-After-Technology-Abolitionist-Tools/dp/1509526404
+* * The Digital Divide
+* * [Race After Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin](https://www.goodreads.com/book/show/42527493-race-after-technology)
 * Ed-Tech
 * * https://www.edquity.co/
 * VR
