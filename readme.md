@@ -24,7 +24,7 @@
 
 **Bail Funds**
 
-* nationalbailout.org
+* https://nationalbailout.org
 
 * https://bailfunds.github.io/
 
@@ -38,7 +38,7 @@
 
 * Have hard conversations with family members and former/current classmates, coworkers
 
-* If relevant, lookg up the record of your area's police [here](https://mappingpoliceviolence.org/
+* If relevant, looking up the record of your area's police [here](https://mappingpoliceviolence.org/
 )
 
 **Self Care**
@@ -48,6 +48,11 @@
 * Tell your friends you love them (/yourself/the universe/?)
 * Take care of yourself so you can take care of others <3
 
+**Global Solidarity**
+* Black Lives Matter Toronto https://blacklivesmatter.ca/
+
+
 ## Part II: Allyship (Wednesday, June 10, 2020)
+
 
 ## Part III Technology Now (Friday, June 12, 2020)
