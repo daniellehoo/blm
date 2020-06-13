@@ -153,7 +153,7 @@
 **Discussion Topics**
 
 * The history of technology and tech institutions’s role in systemic racism
-8 Our role as technologists in this moment
+* Our role as technologists in this moment
 
 * Technology companies and policing
 * Github / Palantir and ICE
