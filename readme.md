@@ -179,13 +179,14 @@ Resources:
 https://riseup.net/ -- see under collaboration for secure resource-sharing docs
 
 Decentralized Communication
-https://scuttlebutt.nz/
- https://www.joincircles.net/
+* https://scuttlebutt.nz/
+*  https://www.joincircles.net/
 
 Self-funding methods
 
 Large funding methods
 https://seedfund.nsf.gov/
 
-Data visualization
-Spatial audio
+**Notes/Ideas**
+* Data visualization
+* Spatial audio
