@@ -138,5 +138,14 @@ Film/Documentary:
 
 * [12 Movies to Watch to Educate Yourself About Racism and Protest History, Recommended by Experts](https://time.com/5847912/movies-to-watch-about-racism-protests/)
 
+**Notes/Ideas/Resources from Discussion**
+
+* How can you be in ally in the systems you are a part of?
+* [Ready Set - Ally Workshop](https://www.thereadyset.co/ally-skills-workshop)
+* How to dissolve racist institutions?
+* Local politics - election of prosectors
+* Optics and the white savior complex
+* What racist institutions am I embedded in?
+* How can I work inside of that institution to dissolve it?
 
 ## Part III Technology Now (Friday, June 12, 2020)
