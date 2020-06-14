@@ -138,6 +138,13 @@
 
 * [12 Movies to Watch to Educate Yourself About Racism and Protest History, Recommended by Experts](https://time.com/5847912/movies-to-watch-about-racism-protests/)
 
+**Videos:**
+* [Dr. Elizabeth Hinton- “Policing, Warfare, Incarceration, A History of Urban Violence”](https://www.youtube.com/watch?v=Yn-iqM40ELc)
+* [Dr. Courtney Cogburn - “Culture, Race, and Health”](https://www.youtube.com/watch?v=po94JobZyZo)
+* [Dr Dorothy E. Roberts - “Killing the Black Body: A Twenty-Year Retrospective”](https://www.youtube.com/watch?v=lHcjJfkVQaQ)
+* [In Conversation with Mutale Nkonde](https://www.youtube.com/watch?v=kJrstJRXwag)
+
+
 **Notes/Ideas/Resources from Discussion**
 
 * How can you be in ally in the systems you are a part of?
